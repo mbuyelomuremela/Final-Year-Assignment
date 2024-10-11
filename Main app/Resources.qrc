@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Images/add_book.jpg</file>
+        <file>Images/add_customer.jpg</file>
+        <file>Images/book.jpg</file>
+        <file>Images/customers.jpg</file>
+        <file>Images/logo.jpg</file>
+        <file>Images/pay.jpg</file>
+        <file>Images/restore.jpg</file>
+        <file>Images/xml.jpg</file>
+        <file>Images/about.png</file>
+        <file>Images/help.png</file>
+    </qresource>
+</RCC>
